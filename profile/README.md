@@ -30,6 +30,11 @@ Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [
 
 ## Données OCR
 
+Les différents dépôts ci-dessous contiennent les textes océrisés et corrigés au format xml-alto ainsi que les fichiers jpg correspondants : 
+
+- OCR_corpus_primaire (https://github.com/ARCHEO-POL/OCR_corpus_principal)
+- OCR_corpus_secondaire ( à venir )
+- OCR_corpus_tertiaire ( à venir )
 
 
 
