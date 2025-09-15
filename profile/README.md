@@ -25,7 +25,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## TEI Data
 
-The [TEI_archeo_pol] repository (https://github.com/ARCHEO-POL/TEI_Archeo_pol) contains the XML-TEI texts of the project’s corpus.”
+The [TEI_archeo_pol] repository (https://github.com/ARCHEO-POL/TEI_archeo_pol) contains the XML-TEI texts of the project’s corpus.”
 
 
 ## OCR Data
