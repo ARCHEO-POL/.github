@@ -17,7 +17,7 @@ The project thus proposes to reread the Monarchomach treatises from the perspect
 
 GitHub : https://github.com/ARCHEO-POL
 
-Website : https://www.unige.ch/archeopol (coming soon)
+Website : https://www.unige.ch/archeopol (Coming soon)
 
 ## Funder
 
@@ -33,12 +33,12 @@ The [TEI_archeo_pol] repository (https://github.com/ARCHEO-POL/TEI_archeo_pol) c
 The repositories listed below contain the OCRed and corrected texts in XML-ALTO format, along with the corresponding JPG files:
 
 - OCR_corpus_primaire (https://github.com/ARCHEO-POL/OCR_corpus_principal)
-- OCR_corpus_secondaire (https://github.com/ARCHEO-POL/OCR_corpus_secondaire) - coming soon
-- OCR_corpus_tertiaire (https://github.com/ARCHEO-POL/OCR_corpus_tertiaire) - coming soon
+- OCR_corpus_secondaire (https://github.com/ARCHEO-POL/OCR_corpus_secondaire) - Coming soon
+- OCR_corpus_tertiaire (https://github.com/ARCHEO-POL/OCR_corpus_tertiaire) - Coming soon
 
 ## AI Models
 
-Our OCR model, CATMuS S long, is available at :
+Our OCR model, CATMuS S long, is available on Zenodo
 
 ## Publication
 
