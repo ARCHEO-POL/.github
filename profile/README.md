@@ -33,8 +33,8 @@ The [TEI_archeo_pol] repository (https://github.com/ARCHEO-POL/TEI_Archeo_pol) c
 The repositories listed below contain the OCRed and corrected texts in XML-ALTO format, along with the corresponding JPG files:
 
 - OCR_corpus_primaire (https://github.com/ARCHEO-POL/OCR_corpus_principal)
-- OCR_corpus_secondaire ( coming soon )
-- OCR_corpus_tertiaire ( coming soon )
+- OCR_corpus_secondaire (https://github.com/ARCHEO-POL/OCR_corpus_secondaire) - coming soon
+- OCR_corpus_tertiaire (https://github.com/ARCHEO-POL/OCR_corpus_tertiaire) - coming soon
 
 
 ## Linguistic annotation data 
