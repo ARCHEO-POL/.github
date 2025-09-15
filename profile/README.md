@@ -36,11 +36,6 @@ The repositories listed below contain the OCRed and corrected texts in XML-ALTO 
 - OCR_corpus_secondaire (https://github.com/ARCHEO-POL/OCR_corpus_secondaire) - coming soon
 - OCR_corpus_tertiaire (https://github.com/ARCHEO-POL/OCR_corpus_tertiaire) - coming soon
 
-
-## Linguistic annotation data 
-
-This repository contains the linguistic annotation data
-
 ## AI Models
 
 Our OCR model, CATMuS S long, is available at :
