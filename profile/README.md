@@ -3,54 +3,61 @@
 
 ## Une archéologie des discours politiques réformés (XVIe siècle). Des sources à la loupe. La Bibliothèque des Monarchomaques.
 
-Projet FNS 2024-2028, sous la direction de Paul-Alexis Mellet
+FNS Project 2024-2028, under the direction of Paul-Alexis Mellet
 
-## Projet
+## Project
 
-Dans son ouvrage de 2013 sur le Pouvoir absolu, l’historienne Arlette Jouanna s’interrogeait avec perplexité sur l’étrangeté de la Renaissance : « comment retrouver un monde aujourd’hui si lointain ? ». Mais elle répondait immédiatement avec enthousiasme : l’entreprise vaut la peine d’être menée, car « c’est de la réflexion des penseurs d’autrefois que sont nés des concepts qui perdurent au coeur de la pensée politique : la souveraineté, l’État, le droit de résistance, la liberté des individus ». Or, ce sont précisément ces mêmes concepts, issus de l’Antiquité et du Moyen-Age, qui ont été exhumés, actualisés et articulés, dans le contexte européen des guerres de religion en Europe au XVIe siècle, pour constituer la théorie dite « monarchomaque ». L’idée d’une résistance armée légitime au nom des libertés publiques a ensuite connu une grande postérité, par exemple chez Hobbes et Rousseau, dans les révolutions anglaise, américaine et française, et jusque dans les mouvements de protestation en Europe et aux États-Unis en 1968. Mais d’où vient-elle exactement ? Comment s’est-elle constituée ?
+In her 2013 book Le Pouvoir Absolu, the historian Arlette Jouanna reflected with perplexity on the strangeness of the Renaissance: “how can we recover a world that today feels so distant?” Yet she immediately answered with enthusiasm: the task is worth pursuing, for “it is from the reflections of thinkers of the past that concepts were born which still endure at the heart of political thought: sovereignty, the State, the right of resistance, the liberty of individuals.” These are precisely the very concepts, inherited from Antiquity and the Middle Ages, that were unearthed, updated, and rearticulated in the European context of the sixteenth-century Wars of Religion, giving rise to the so-called “monarchomach” theory. The idea of legitimate armed resistance in the name of public liberties then had a long afterlife, for example in Hobbes and Rousseau, in the English, American, and French Revolutions, and even in the protest movements in Europe and the United States in 1968. But where does this idea come from exactly? How was it constituted?
 
-L’objectif de ce projet de recherche est de se concentrer sur les sources de ces concepts, et renouveler la compréhension des Monarchomaques, ces juristes et théologiens calvinistes de la fin du XVIe siècle qui ont justifié la résistance armée. Alors qu’ils sont bien connus aujourd’hui, de nombreuses zones d’ombre subsistent : liste précise des ouvrages et de leurs rééditions, réponses critiques, influences et surtout sources et références. Il s’agit donc d’offrir des analyses transversales de textes souvent étudiés séparément, tout en adoptant une méthode originale : l’étude des sources dont ils se sont inspirés. Quelles étaient leurs formations et leurs lectures ? Quelles interprétations faisaient-ils de la Bible, des philosophes de l’Antiquité, des juristes médiévaux ou des historiens qui les ont précédés ? Quelles influences ces pratiques intellectuelles et éditoriales ont-elles suscitées ? Pour eux, le précédent historique ne rendait pas seulement possible une forme institutionnelle du passé, il la rendait réelle en montrant qu’elle a déjà existé (Grafton et Schwab 2022).
+The aim of this research project is to focus on the sources of these concepts and to renew our understanding of the Monarchomachs, those Calvinist jurists and theologians of the late sixteenth century who justified armed resistance. Although well known today, many areas remain obscure: the precise list of works and their re-editions, the critical responses, the influences, and above all the sources and references. The project therefore seeks to offer transversal analyses of texts often studied in isolation, while adopting an original approach: the study of the sources from which they drew inspiration. What were their intellectual training and their readings? How did they interpret the Bible, the philosophers of Antiquity, the medieval jurists, or the historians who preceded them? What influences did these intellectual and editorial practices generate? For them, historical precedent did not merely make possible a form inherited from the past; it made it real by showing that it had already existed (Grafton and Schwab 2022).
 
-Mais il fallait encore que ces cas anciens puissent être érigés en modèles exemplaires pour le présent ou l’avenir (Hampton 1990 ; Giavarini 2008). Le système repose donc sur une véritable « théorie des sources », de leur nature (lesquelles ?) et de leur fonction (quels modèles pour l’avenir ?). Ce sont ces sources, parfois communes aux catholiques et aux protestants (Frank 2023), qui ont fait l’objet de grandes controverses pendant les guerres de religion. Ce sont ces sources, finalement, qui ont dessiné les contours d’une méthode polémique, l’« exigence critique dans la parole pamphlétaire » (Christin 2014), qui s’est imposée jusqu’à aujourd’hui. Le projet propose ainsi de relire les traités monarchomaques à partir des sources sur lesquelles ils s’appuient. Pour mener à bien ce projet portant sur un corpus de recherche redéfini et enrichi, nous proposons de recourir aux outils numériques qui permettront de rechercher ces sources, de les comparer entre les textes, de mesurer leur impact et leur réception dans d’autres textes et d’autres contextes, notamment pour les critiques qu’ils ont reçues. D’un point de vue épistémologique, l’analyse computationnelle fournit en effet des outils permettant des recherches dans des corpus élargis.
+Yet these ancient examples also had to be elevated into exemplary models for the present or the future (Hampton 1990; Giavarini 2008). The system thus rested on a true “theory of sources”: their nature (which ones?) and their function (what models for the future?). These sources—sometimes shared by Catholics and Protestants alike (Frank 2023)—were at the heart of major controversies during the Wars of Religion. Ultimately, it was these very sources that shaped the contours of a polemical method, the “critical demand in pamphlet writing” (Christin 2014), which has endured up to the present day.
 
-GitHub du projet : https://github.com/ARCHEO-POL
+The project thus proposes to reread the Monarchomach treatises from the perspective of the sources on which they relied. To carry out this study of a corpus redefined and enriched for research purposes, we propose to make use of digital tools that will make it possible to identify these sources, to compare them across texts, to measure their impact and reception in other writings and contexts—especially in the critiques they elicited. From an epistemological standpoint, computational analysis indeed provides powerful tools for exploring expanded corpora.
 
-Site du projet : https://www.unige.ch/archeopol
+GitHub : https://github.com/ARCHEO-POL
+
+Website : https://www.unige.ch/archeopol (coming soon)
+
+## Funder
+
+This project is funded by the Swiss National Science Foundation (SNSF). Project number: [219694](https://data.snf.ch/grants/grant/219694).
+
+## TEI Data
+
+The [TEI_archeo_pol] repository (https://github.com/ARCHEO-POL/TEI_Archeo_pol) contains the XML-TEI texts of the project’s corpus.”
 
 
-## Financeur
+## OCR Data
 
-Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [219694](https://data.snf.ch/grants/grant/219694).
-
-
-## Données TEI
-
-
-
-
-## Données OCR
-
-Les différents dépôts ci-dessous contiennent les textes océrisés et corrigés au format xml-alto ainsi que les fichiers jpg correspondants : 
+The repositories listed below contain the OCRed and corrected texts in XML-ALTO format, along with the corresponding JPG files:
 
 - OCR_corpus_primaire (https://github.com/ARCHEO-POL/OCR_corpus_principal)
-- OCR_corpus_secondaire ( à venir )
-- OCR_corpus_tertiaire ( à venir )
+- OCR_corpus_secondaire ( coming soon )
+- OCR_corpus_tertiaire ( coming soon )
+
+
+## Linguistic annotation data 
+
+This repository contains the linguistic annotation data
+
+## AI Models
+
+Our OCR model, CATMuS S long, is available at :
+
+## Publication
+
+Coming soon
+
+## How to cite
+
+If you use this dataset, please cite it as below : Bianco, A., Champeaux, N., Paoli, L. **ARCHÉO-Pol : la Bibliothèque des Monarchomaques**, version 1.0 : Genève, septembre 2025.
+ 
+## Licences
+
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> 
 
 
 
-## Données d'annotation linguistique
 
 
-
-
-## Modelès d'IA
-
-Notre modèle d'OCR, _CATMuS S long _, est disponible sur Zenodo : 
-
-## Publications
-
-à venir
-
-## Citer le projet 
-
-à venir
